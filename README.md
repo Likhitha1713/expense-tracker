@@ -13,3 +13,6 @@ Python
 
 ## Author
 Likhitha
+## Live Demo
+
+🔗 Expense Tracker: https://expense-buddy-app-08.lovable.app
